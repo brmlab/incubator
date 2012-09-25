@@ -1,5 +1,3 @@
   * vyzkouset zapojeni s parazitnim napajenim
   * overit pinout soucastek
   * overit pinout headeru
-  * pridat odpory a zenerky k usb
-  * blokovaci kondenzatory
