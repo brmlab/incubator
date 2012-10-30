@@ -17083,8 +17083,8 @@ Grid 5.08 mm&lt;p&gt;
 <instance part="Q4" gate="G$1" x="81.28" y="104.14"/>
 <instance part="Q5" gate="G$1" x="119.38" y="137.16" rot="MR0"/>
 <instance part="Q6" gate="G$1" x="119.38" y="104.14" rot="MR0"/>
-<instance part="PELT" gate="-1" x="99.06" y="116.84" rot="R90"/>
-<instance part="PELT" gate="-2" x="104.14" y="116.84" rot="R90"/>
+<instance part="PELT" gate="-1" x="106.68" y="116.84" rot="R90"/>
+<instance part="PELT" gate="-2" x="99.06" y="116.84" rot="R90"/>
 <instance part="PWR_PELT" gate="-1" x="101.6" y="167.64" rot="R270"/>
 <instance part="PWR_PELT" gate="-2" x="96.52" y="167.64" rot="R270"/>
 <instance part="GND15" gate="1" x="101.6" y="154.94"/>
@@ -17724,7 +17724,7 @@ Grid 5.08 mm&lt;p&gt;
 <pinref part="Q3" gate="G$1" pin="S"/>
 <pinref part="Q4" gate="G$1" pin="D"/>
 <wire x1="83.82" y1="132.08" x2="83.82" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="PELT" gate="-1" pin="KL"/>
+<pinref part="PELT" gate="-2" pin="KL"/>
 <wire x1="83.82" y1="121.92" x2="83.82" y2="109.22" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="121.92" x2="83.82" y2="121.92" width="0.1524" layer="91"/>
 <junction x="83.82" y="121.92"/>
@@ -17735,9 +17735,9 @@ Grid 5.08 mm&lt;p&gt;
 <pinref part="Q5" gate="G$1" pin="S"/>
 <pinref part="Q6" gate="G$1" pin="D"/>
 <wire x1="116.84" y1="132.08" x2="116.84" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="PELT" gate="-2" pin="KL"/>
+<pinref part="PELT" gate="-1" pin="KL"/>
 <wire x1="116.84" y1="121.92" x2="116.84" y2="109.22" width="0.1524" layer="91"/>
-<wire x1="104.14" y1="121.92" x2="116.84" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="106.68" y1="121.92" x2="116.84" y2="121.92" width="0.1524" layer="91"/>
 <junction x="116.84" y="121.92"/>
 </segment>
 </net>
